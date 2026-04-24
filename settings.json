@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
+    "ip": "nightlypearlsmp.sdlf.fun",
     "port": 27586,
     "version": "",
     "try-creative": false
@@ -31,8 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
+        "I'm a 24/7 bot created by NightlyPearlz_!",
+        "Please ignore my last message.",
         "I like to play Minecraft!"
       ]
     },
